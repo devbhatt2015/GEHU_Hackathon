@@ -109,9 +109,4 @@ The platform uses intelligent models to:
 
 Contributions are welcome! 🎉  
 
-If you’d like to contribute:
 
-1. Fork the repository
-2. Create a new branch  
-   ```bash
-   git checkout -b feature-name
